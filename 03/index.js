@@ -1,0 +1,1 @@
+let persons = [a, b, c]
